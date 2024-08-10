@@ -1,122 +1,123 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Techton",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
-    },
-    {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Services",
+      "href": "/services"
     },
     {
       "name": "About",
-      "href": "about"
+      "href": "/about"
+    },
+
+    {
+      "name": "Contact Us",
+      "href": "/contact"
+    },
+    {
+      "name": "Login",
+      "href": "/login"
     }
   ],
-  "callToAction": {
-    "text": "Get started",
-    "href": "#"
+  "WebAudit": {
+    "text": "",
+    "href": ""
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Transform Your Home with Smart Remodeling and Expert Handyman Services!",
+    "subtitle": "Innovative Solutions for a Smarter, Safer, and More Efficient Home",
+    "description": "",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Get a Free Consultation Today!",
+      "href": "mailto:sales@techton.tech?subject=Free Consultation"
+
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Call Us",
+      "href": "tel:5099038443"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Transform Your Home with Smart Remodeling and Expert Handyman Services!",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Innovative Solutions for a Smarter, More Efficient Home",
+        "description": "Imagine a home that anticipates your needs. From effortless smart home control to expert handyman solutions, we transform houses into havens. Experience the future of living today.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Unlock the full potential of your home.",
+        "description": "Our smart remodeling and handyman services create spaces that are not only beautiful but also intelligent and efficient. Enjoy peace of mind with reliable repairs and experience the convenience of a truly connected home.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Tired of a home that's falling apart?",
+    "subtitle": " Let us elevate your living space!",
+    "description": "With expert handyman services and cutting-edge smart home technology. we're your one-stop solution for a smarter, more comfortable home.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Home Networking",
+        "description": "Say goodbye to buffering and dead zones. Enjoy seamless online experiences with our professional home networking solutions. We'll optimize your internet connection for faster speeds and stronger signals.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Smart Home Solutions",
+        "description": "Upgrade your lifestyle with smart home technology. Our easy-to-install solutions make your home more convenient, efficient, and secure. From smart lights to smart thermostats, we've got you covered.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Comprehensive IT Solutions",
+        "description": "Optimize your business operations with our expert IT services. From network infrastructure to web development, we provide tailored solutions to meet your unique needs. Our comprehensive offerings include network administration, software support, data management, cloud services, and IT project management.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Professional TV Mounting and Installation",
+        "description": "Tired of an eyesore TV stand? Enhance your viewing experience with our expert TV mounting services. We'll seamlessly integrate your television into any room, creating a sleek and modern look.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "",
+        "price": "",
+        "priceDetails": "",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "",
+          "",
+          "",
+          ""
         ]
       }
     ]
@@ -124,30 +125,30 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Services",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "About",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Contact Us",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Login",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "",
+      "twitter": "",
+      "linkedin": ""
     }
   }
 }

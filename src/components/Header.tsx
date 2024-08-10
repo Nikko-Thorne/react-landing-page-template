@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import config from '../config/index.json';
 
 const Menu = () => {
-  const { navigation, company, callToAction } = config;
+  const { navigation, company, WebAudit } = config;
   const { name: companyName, logo } = company;
 
   return (
@@ -61,9 +61,7 @@ const Menu = () => {
               <a
                 href="#"
                 className={`font-medium text-primary hover:text-secondary`}
-              >
-                Call to action
-              </a>
+              ></a>
             </div>
           </nav>
         </div>
@@ -113,10 +111,10 @@ const Menu = () => {
                 ))}
               </div>
               <a
-                href={callToAction.href}
+                href={WebAudit.href}
                 className={`block w-full px-5 py-3 text-center font-medium text-primary bg-gray-50 hover:bg-gray-100`}
               >
-                {callToAction.text}
+                {WebAudit.text}
               </a>
             </div>
           </Popover.Panel>
