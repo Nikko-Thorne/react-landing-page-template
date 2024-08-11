@@ -27,10 +27,10 @@
     "href": ""
   },
   "mainHero": {
-    "title": "Transform Your Home with Smart Remodeling and Expert Handyman Services!",
+    "title": "Transform Your Home!",
     "subtitle": "Innovative Solutions for a Smarter, Safer, and More Efficient Home",
     "description": "",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/smart-home-5.jpg",
     "primaryAction": {
       "text": "Get a Free Consultation Today!",
       "href": "mailto:sales@techton.tech?subject=Free Consultation"
@@ -42,17 +42,17 @@
     }
   },
   "product": {
-    "title": "Transform Your Home with Smart Remodeling and Expert Handyman Services!",
+    "title": "Transform Your Home with Smart Home Automation and Expert Handyman Services!",
     "items": [
       {
         "title": "Innovative Solutions for a Smarter, More Efficient Home",
         "description": "Imagine a home that anticipates your needs. From effortless smart home control to expert handyman solutions, we transform houses into havens. Experience the future of living today.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/smart-home-1.jpg"
       },
       {
         "title": "Unlock the full potential of your home.",
         "description": "Our smart remodeling and handyman services create spaces that are not only beautiful but also intelligent and efficient. Enjoy peace of mind with reliable repairs and experience the convenience of a truly connected home.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/smart-home-6.jpg"
       }
     ]
   },
@@ -83,72 +83,28 @@
       }
     ]
   },
-  "pricing": {
-    "title": "",
-    "items": [
-      {
-        "name": "",
-        "price": "",
-        "priceDetails": "",
-        "features": [
-          "",
-          "",
-          "",
-          ""
-        ]
-      },
-      {
-        "name": "",
-        "price": "",
-        "priceDetails": "",
 
-        "features": [
-          "",
-          "",
-          "",
-          ""
-        ]
-      },
-      {
-        "name": "",
-        "price": "",
-        "priceDetails": "",
-        "features": [
-          "",
-          "",
-          "",
-          ""
-        ]
-      }
-    ]
-  },
   "about": {
     "sections": [
       {
         "name": "Services",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
         "name": "About",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "about company"
       },
       {
         "name": "Contact Us",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Login",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "contact us"
       }
     ],
     "socialMedia": {
-      "github": "",
       "twitter": "",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/company/techton/"
     }
   }
 }
