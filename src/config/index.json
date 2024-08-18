@@ -64,27 +64,96 @@
       {
         "name": "Home Networking",
         "description": "Say goodbye to buffering and dead zones. Enjoy seamless online experiences with our professional home networking solutions. We'll optimize your internet connection for faster speeds and stronger signals.",
-        "icon": "/assets/images/react.png"
+        "icon": "/assets/images/network.svg"
       },
       {
         "name": "Smart Home Solutions",
         "description": "Upgrade your lifestyle with smart home technology. Our easy-to-install solutions make your home more convenient, efficient, and secure. From smart lights to smart thermostats, we've got you covered.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/home.svg"
       },
       {
         "name": "Comprehensive IT Solutions",
         "description": "Optimize your business operations with our expert IT services. From network infrastructure to web development, we provide tailored solutions to meet your unique needs. Our comprehensive offerings include network administration, software support, data management, cloud services, and IT project management.",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/it.svg"
       },
       {
         "name": "Professional TV Mounting and Installation",
         "description": "Tired of an eyesore TV stand? Enhance your viewing experience with our expert TV mounting services. We'll seamlessly integrate your television into any room, creating a sleek and modern look.",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/tv.svg"
       }
     ]
   },
-
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Smart Home Automation",
+        "description": "Transform your home with cutting-edge automation technology for a more convenient and efficient lifestyle.",
+        "img": "path-to-service-one.jpg"
+      },
+      {
+        "title": "Home Networking",
+        "description": "Optimize your home network for seamless connectivity, ensuring fast and reliable internet throughout your entire home.",
+        "img": "path-to-service-two.jpg"
+      },
+      {
+        "title": "Intelligent Thermostat Installation",
+        "description": "Install a smart learning thermostat that adapts to your preferences. Enjoy optimal comfort and energy savings as it learns your schedule and preferred temperatures throughout the day.",
+        "img": "path-to-service-three.jpg"
+      },
+      {
+        "title": "Smart Sprinkler System Upgrade",
+        "description": "Upgrade your irrigation system with WiFi-enabled smart sprinklers featuring rain detection. Save water and maintain a beautiful lawn effortlessly with app control and weather-based adjustments.",
+        "img": "path-to-service-four.jpg"
+      },
+      {
+        "title": "Smart Garage Door Upgrade",
+        "description": "Enhance your garage door with WiFi connectivity and auto-closing features. Control and monitor your garage door from anywhere, ensuring security and peace of mind.",
+        "img": "path-to-service-five.jpg"
+      },
+      {
+        "title": "TV Mounting",
+        "description": "Professional TV mounting and installation services to enhance your viewing experience and save space.",
+        "img": "path-to-service-six.jpg"
+      }
+    ]
+  },
   "about": {
+    "title": "About Us: Crafted for Your Future",
+    "items": [
+      {
+        "title": "",
+        "description": "",
+        "img": ""
+      },
+      {
+        "title": "Meticulous Craftsmanship",
+        "description": "Just as an artisan takes pride in their work, we believe in meticulous craftsmanship. Whether it's automating your home or handling handy services, our team brings the highest level of skill and attention to detail to every task.",
+        "img": ""
+      },
+      {
+        "title": "Precision Meets Innovation",
+        "description": "In the world of smart homes and handy services, every detail counts. Inspired by the artistry of master craftsmen, we pour precision and dedication into every project, ensuring that our solutions not only meet but exceed your expectations.",
+        "img": ""
+      },
+      {
+        "title": "Collaborative Partnerships",
+        "description": "Your home, your vision. We approach each project as a collaborative partnership, listening to your needs and working alongside you to bring your ideas to life with transparency and integrity.",
+        "img": ""
+      },
+      {
+        "title": "Sustainable Solutions",
+        "description": "We don't just provide immediate fixes; we build sustainable solutions that last. Our work is designed to stand the test of time, offering you long-term value and peace of mind.\n\n",
+        "img": ""
+      },
+      {
+        "title": "Continuous Growth",
+        "description": "In a rapidly changing world, staying ahead is key. We embrace continuous growth, constantly updating our knowledge and skills to offer you the latest in smart home technology and services.\n\n",
+        "img": ""
+      }
+    ]
+  },
+  "footer": {
     "sections": [
       {
         "name": "Services",
